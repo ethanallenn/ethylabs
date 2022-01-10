@@ -6,4 +6,4 @@ Terve, Hi, Hei, Hej, Hæ, Labas, 今日は 👋
 
 📫 If you're looking to contact me, I'm on Discord at ethy#3550 or email at ethylabs@programmer.net.
 
-👯 My main project is my Steam Platformer game Underover.
+👯 My main project is my Minecraft Fabric Plugin.
