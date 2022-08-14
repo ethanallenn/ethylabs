@@ -4,6 +4,6 @@ Terve, Hi, Hei, Hej, Hæ, Labas, 今日は 👋
 
 🔭 I code in a lot of languages, just whatever comes to my head first: C#, Java, Pyhton, Lua - anything.
 
-📫 If you're looking to contact me, I'm on Discord at ethy#3550 or email at ethylabs@programmer.net.
+📫 If you're looking to contact me, I'm on Discord at ethy#3550 or email at ethan@ethainet.co.uk.
 
-👯 My main project is my Minecraft Fabric Plugin.
+👯 My main project is a Sorting Alg.
