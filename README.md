@@ -6,4 +6,4 @@ Terve, Hi, Hei, Hej, Hæ, Labas, 今日は 👋
 
 📫 If you're looking to contact me, I'm on Discord at ethy#3550 or email at ethan@ethainet.co.uk.
 
-👯 My main project is a Sorting Alg.
+👯 My main project is a minecraft authenticator plugin for discord.
