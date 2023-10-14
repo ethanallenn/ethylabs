@@ -1,9 +1,8 @@
-Hi, Hei, Hej, 今日は 👋
+Hi, Hola, 今日は 👋
+I'm Ethan, and I'm from Belfast, Northern Ireland.
 
-🌱 I'm Ethan, and I'm from Northern Ireland.
+I code in Python and Java a lot.
 
-🔭 I code in a lot of languages, just whatever comes to my head first: C#, Java, Python - anything.
+If you're looking to contact me, I'm on Discord at @eethanallen or email at ethan@envenso.uk
 
-📫 If you're looking to contact me, I'm on Discord at Ethai#5330 or email at ethan@ethainet.co.uk.
-
-👯 My main project is a minecraft server that will be released in Late 2023.
+Have a great day! :)
